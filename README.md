@@ -1,3 +1,6 @@
+Dashboard Snapshot
+![image alt](https://github.com/Sambhav-Bhardwaj/Bank-Loan-Dashboard-Project/blob/f36ee311e1a68a31ca3de72aef0dd3b3785ef255/Bank%20loan%20Dasboard%20Snapshot.jpg)
+
 ** Bank Loan Analysis Dashboard **
 
 A complete data analytics project designed to analyse bank loan performance, borrower behaviour, loan approval efficiency, and overall financial risk.
